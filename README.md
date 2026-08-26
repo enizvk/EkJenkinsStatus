@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="macos/JenkinsStatus/Assets.xcassets/AppIcon.appiconset/Icon256.png" width="120" alt="EKJenkins Status">
+<img src="Icon64.png" width="120" alt="EKJenkins Status">
 
 # EKJenkins Status
 
