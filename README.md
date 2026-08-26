@@ -52,11 +52,7 @@ which pipeline stage is grinding — without keeping a browser tab open.
 
 ---
 
-## Install
-
-Grab the latest **`.dmg`** from [Releases](https://github.com/enizvk/EkJenkinsStatus/releases), drag the app to
-`/Applications`, then run this once — the build isn't notarised by Apple, so macOS
-quarantines it:
+## InstallRun .pkg installer and follow the steps. It will require running xattr since this app is monetized by Apple and its free to use. Check `Privacy & Security` menu if Mac says the app is malware. Don't worry its safe just not signed.
 
 ```bash
 xattr -dr com.apple.quarantine "/Applications/EKJenkins Status.app"
