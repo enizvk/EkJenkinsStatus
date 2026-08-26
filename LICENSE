@@ -1,151 +1,75 @@
-END USER LICENSE AGREEMENT
-EKJenkins Status
+# PolyForm Noncommercial License 1.0.0
 
-Copyright (c) 2026 Eniz K. ("the Author"). All rights reserved.
+<https://polyformproject.org/licenses/noncommercial/1.0.0>
 
-This is a proprietary licence, not an open source licence. The source code may be
-publicly readable, but the rights granted below are limited to those stated here.
+Required Notice: Copyright (c) 2026 Eniz K. -- EKJenkins Status
 
-IMPORTANT: By downloading, installing, copying, building, or using EKJenkins
-Status (the "Software"), you agree to be bound by this Agreement. If you do not
-agree, do not install or use the Software.
+## Acceptance
 
+In order to get any license under these terms, you must agree to them as both strict obligations and conditions to all your licenses.
 
-1. DEFINITIONS
+## Copyright License
 
-   "Software" means the EKJenkins Status application, its source code, build
-   scripts, icons, documentation, and any updates the Author supplies.
+The licensor grants you a copyright license for the software to do everything you might do with the software that would otherwise infringe the licensor's copyright in it for any permitted purpose.  However, you may only distribute the software according to [Distribution License](#distribution-license) and make changes or new works based on the software according to [Changes and New Works License](#changes-and-new-works-license).
 
-   "Noncommercial Use" means use by an individual for personal purposes, or use
-   for teaching, academic research, or evaluation, where the use is not carried
-   out by or for a business, and is not part of, and does not support, any
-   activity performed for commercial advantage or monetary compensation.
+## Distribution License
 
-   "Commercial Use" means any use that is not Noncommercial Use, including use by
-   or on behalf of a company, government body, or other organisation in the
-   course of its operations, and use in providing any paid product or service.
+The licensor grants you an additional copyright license to distribute copies of the software.  Your license to distribute covers distributing the software with changes and new works permitted by [Changes and New Works License](#changes-and-new-works-license).
 
+## Notices
 
-2. GRANT OF LICENCE
+You must ensure that anyone who gets a copy of any part of the software from you also gets a copy of these terms or the URL for them above, as well as copies of any plain-text lines beginning with `Required Notice:` that the licensor provided with the software.  For example:
 
-   Subject to your compliance with this Agreement, the Author grants you a
-   personal, non-exclusive, non-transferable, revocable, royalty-free licence to:
+> Required Notice: Copyright Yoyodyne, Inc. (http://example.com)
 
-   (a) install and use the Software on computers you own or control, for
-       Noncommercial Use;
-   (b) compile the Software from source for that same Noncommercial Use; and
-   (c) make one backup copy.
+## Changes and New Works License
 
-   No other rights are granted, expressly or by implication.
+The licensor grants you an additional copyright license to make changes and new works based on the software for any permitted purpose.
 
+## Patent License
 
-3. COMMERCIAL USE REQUIRES A SEPARATE LICENCE
+The licensor grants you a patent license for the software that covers patent claims the licensor can license, or becomes able to license, that you would infringe by using the software.
 
-   Commercial Use is not permitted under this Agreement. To use the Software
-   commercially, you must obtain a separate written licence from the Author.
-   Contact: <CONTACT — set this before distributing>
+## Noncommercial Purposes
 
+Any noncommercial purpose is a permitted purpose.
 
-4. RESTRICTIONS
+## Personal Uses
 
-   Except as section 2 expressly permits, you may not:
+Personal use for research, experiment, and testing for the benefit of public knowledge, personal study, private entertainment, hobby projects, amateur pursuits, or religious observance, without any anticipated commercial application, is use for a permitted purpose.
 
-   (a) sell, rent, lease, sublicence, or otherwise distribute the Software or any
-       derivative of it, whether alone or bundled with anything else;
-   (b) publish or host the Software, or make it available to third parties as a
-       service;
-   (c) remove or alter any copyright, licence, or attribution notice;
-   (d) use the Author's name, or the name "EKJenkins Status", to endorse or
-       promote anything without prior written permission; or
-   (e) use the Software in violation of any applicable law, or in breach of the
-       policies of any system it connects to.
+## Noncommercial Organizations
 
-   You may modify the Software for your own Noncommercial Use. You may not
-   distribute modified versions. You may submit changes to the Author, and by
-   doing so you grant the Author a perpetual, worldwide, royalty-free licence to
-   use and relicense those changes as part of the Software.
+Use by any charitable organization, educational institution, public research organization, public safety or health organization, environmental protection organization, or government institution is use for a permitted purpose regardless of the source of funding or obligations resulting from the funding.
 
+## Fair Use
 
-5. OWNERSHIP
+You may have "fair use" rights for the software under the law. These terms do not limit them.
 
-   The Software is licensed, not sold. The Author retains all right, title, and
-   interest in and to the Software, including all intellectual property rights.
+## No Other Rights
 
+These terms do not allow you to sublicense or transfer any of your licenses to anyone else, or prevent the licensor from granting licenses to anyone else.  These terms do not imply any other licenses.
 
-6. THIRD-PARTY MATERIALS AND TRADEMARKS
+## Patent Defense
 
-   The Software bundles the .NET runtime, which is licensed by Microsoft under
-   its own terms. "Jenkins" is a trademark of the Jenkins project and its
-   owners; "Apple" and "macOS" are trademarks of Apple Inc. The Software is not
-   affiliated with, endorsed by, or sponsored by any of them.
+If you make any written claim that the software infringes or contributes to infringement of any patent, your patent license for the software granted under these terms ends immediately. If your company makes such a claim, your patent license ends immediately for work on behalf of your company.
 
+## Violations
 
-7. NO DISTRIBUTION THROUGH APP STORES
+The first time you are notified in writing that you have violated any of these terms, or done anything with the software not covered by your licenses, your licenses can nonetheless continue if you come into full compliance with these terms, and take practical steps to correct past violations, within 32 days of receiving notice.  Otherwise, all your licenses end immediately.
 
-   The Software is not distributed or monetised through the Apple App Store or
-   any other application marketplace.
+## No Liability
 
+***As far as the law allows, the software comes as is, without any warranty or condition, and the licensor will not be liable to you for any damages arising out of these terms or the use or nature of the software, under any kind of legal claim.***
 
-8. DATA AND PRIVACY
+## Definitions
 
-   The Software runs entirely on your computer. It sends requests only to the
-   Jenkins server you configure and, if update checking is enabled, to GitHub to
-   look for new releases. Your Jenkins credentials are stored in the macOS
-   Keychain on your machine. The Author operates no servers and receives no data
-   from you.
+The **licensor** is the individual or entity offering these terms, and the **software** is the software the licensor makes available under these terms.
 
+**You** refers to the individual or entity agreeing to these terms.
 
-9. UPDATES
+**Your company** is any legal entity, sole proprietorship, or other kind of organization that you work for, plus all organizations that have control over, are under the control of, or are under common control with that organization.  **Control** means ownership of substantially all the assets of an entity, or the power to direct its management and policies by vote, contract, or otherwise.  Control can be direct or indirect.
 
-   The Software may check for and install updates from the Author's public
-   release page. You may disable this in the Software's settings. Updates are
-   provided at the Author's discretion and are covered by this Agreement.
+**Your licenses** are all the licenses granted to you for the software under these terms.
 
-
-10. TERM AND TERMINATION
-
-    This Agreement applies until terminated. It terminates automatically and
-    immediately if you breach any term. The Author may also terminate it at any
-    time on notice. On termination you must stop using the Software and delete
-    all copies. Sections 4, 5, 11, and 12 survive termination.
-
-
-11. NO WARRANTY
-
-    THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF ANY
-    KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES
-    OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND
-    NON-INFRINGEMENT. THE AUTHOR DOES NOT WARRANT THAT THE SOFTWARE WILL BE
-    UNINTERRUPTED, ERROR-FREE, OR THAT IT WILL REPORT BUILD STATUS ACCURATELY.
-    YOU ARE RESPONSIBLE FOR VERIFYING ANYTHING IMPORTANT DIRECTLY IN JENKINS.
-
-
-12. LIMITATION OF LIABILITY
-
-    TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE AUTHOR SHALL NOT BE LIABLE FOR
-    ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR FOR
-    ANY LOSS OF PROFITS, DATA, OR BUSINESS, ARISING OUT OF OR RELATED TO THE
-    SOFTWARE OR THIS AGREEMENT, ON ANY THEORY OF LIABILITY, EVEN IF ADVISED OF
-    THE POSSIBILITY OF SUCH DAMAGES. THE AUTHOR'S TOTAL AGGREGATE LIABILITY SHALL
-    NOT EXCEED THE GREATER OF THE AMOUNT YOU PAID FOR THE SOFTWARE (WHICH MAY BE
-    ZERO) OR TEN EURO (EUR 10).
-
-    Nothing in this Agreement excludes liability that cannot be excluded by law.
-
-
-13. GENERAL
-
-    This Agreement is the entire agreement between you and the Author regarding
-    the Software and supersedes any prior understanding. If any provision is held
-    unenforceable, the remainder stays in force. Failure to enforce a provision
-    is not a waiver of it. You may not assign this Agreement; the Author may.
-
-    This Agreement is governed by the laws of
-    <JURISDICTION — set this before distributing>, without regard to its conflict
-    of laws rules, and the courts of that jurisdiction have exclusive
-    jurisdiction over any dispute.
-
-
-14. CONTACT
-
-    Eniz K. — <CONTACT — set this before distributing>
+**Use** means anything you do with the software requiring one of your licenses.
