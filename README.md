@@ -14,7 +14,7 @@ which pipeline stage is grinding — without keeping a browser tab open.
 [![built with](https://img.shields.io/badge/built%20with-C%23%20%2B%20AppKit-512BD4?logo=dotnet)](#why-its-native)
 [![license](https://img.shields.io/badge/license-PolyForm%20Noncommercial-blue)](LICENSE)
 
-<img src="docs/screenshots/watched.png" width="470" alt="Watched builds">
+<img src="watched.png" width="470" alt="Watched builds">
 
 </div>
 
@@ -38,11 +38,11 @@ which pipeline stage is grinding — without keeping a browser tab open.
 <table>
 <tr>
 <td width="50%" align="center">
-  <img src="docs/screenshots/stages.png" alt="Pipeline stages expanded">
+  <img src="stages.png" alt="Pipeline stages expanded">
   <br><em>Pipeline stages, inline</em>
 </td>
 <td width="50%" align="center">
-  <img src="docs/screenshots/project.png" alt="A project tab">
+  <img src="project.png" alt="A project tab">
   <br><em>A project tab: every branch and PR</em>
 </td>
 </tr>
