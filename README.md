@@ -111,36 +111,6 @@ How long it stays up is configurable in Settings (3–30 seconds, or until click
 Sign with a Developer ID and it uses real Notification Center banners instead —
 no code change required.
 
----
-
-## Why it's native
-
-No Electron, no webview, no browser extension: a single self-contained ~24 MB app
-written in **C# against AppKit** (`net10.0-macos`). Real `NSStatusItem`,
-`NSPopover`, and `NSTableView`, so it behaves the way a Mac app should — the menu
-bar glyph is a template image that macOS tints for light and dark mode, and the
-whole thing idles at essentially zero CPU between polls.
-
-It also ships an in-app updater that checks this repo's GitHub Releases, so you
-get new versions without hunting for a download.
-
----
-
-## Contributing & building
-
-See **[docs/DEVELOPING.md](docs/DEVELOPING.md)** for build commands, the release
-workflow, the headless verification flags, and notes on the AppKit gotchas this
-codebase has already hit.
-
-```bash
-git clone https://github.com/enizvk/EkJenkinsStatus.git
-cd EkJenkinsStatus
-dotnet workload install macos     # one-time, needs Xcode
-cd macos/JenkinsStatus && dotnet build
-```
-
----
-
 ## License
 
 EULA
