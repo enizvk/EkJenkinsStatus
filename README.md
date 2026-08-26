@@ -143,9 +143,7 @@ cd macos/JenkinsStatus && dotnet build
 
 ## License
 
-Apache2
-**Commercial use requires a separate licence — contact the author.** This app is
-not distributed or monetised through the Apple App Store.
+EULA
 
 Provided "as is", without warranty of any kind. Not affiliated with or endorsed by
 the Jenkins project or Apple.
