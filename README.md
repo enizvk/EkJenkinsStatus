@@ -143,10 +143,7 @@ cd macos/JenkinsStatus && dotnet build
 
 ## License
 
-[PolyForm Noncommercial 1.0.0](LICENSE) — free to use, modify, and share for
-**noncommercial** purposes (personal, research, teaching, and charitable,
-educational, or government organisations).
-
+Apache2
 **Commercial use requires a separate licence — contact the author.** This app is
 not distributed or monetised through the Apple App Store.
 
