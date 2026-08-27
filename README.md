@@ -110,8 +110,4 @@ Sign with a Developer ID and it uses real Notification Center banners instead â€
 no code change required.
 
 ## License
-
-EULA
-
-Provided "as is", without warranty of any kind. Not affiliated with or endorsed by
-the Jenkins project or Apple.
+PolyForm Noncommercial License 1.0.0
